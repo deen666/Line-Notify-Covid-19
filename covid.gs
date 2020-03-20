@@ -33,11 +33,6 @@ function Covid() {
      "method"  : "post",
      "payload" : formData,
      "headers" : {"Authorization" : "Bearer "+ token}
-
    };
-
-//  Logger.log(formData);
-
  UrlFetchApp.fetch("https://notify-api.line.me/api/notify",options);
-
 }
