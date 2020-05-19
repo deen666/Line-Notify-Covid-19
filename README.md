@@ -1,4 +1,4 @@
-# Line Notify Covid Stats Projects.
+# Line Notify Covid-Stats Project.
 
 Just for fun.
 
